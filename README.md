@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 # 👋
 ## Meu nome é Beatriz!
-<!--
+
 **Jogo-do-numero-secreto/Jogo-don-numero-secreto** é um ✨ _special_ ✨ repositório porque `README.md` (this file) aparece em seu perfil no GitHub.
 
 Here are some ideas to get you started:
